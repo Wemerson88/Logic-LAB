@@ -51,8 +51,4 @@ Acessos por usuário em períodos específicos.
 4. Resetar Sistema
 Apenas professores podem limpar dados e logs do sistema.
 
-
-
-Caro professor Geraldo, como informei o senhor no primeiro arquivo em que eu enviei, eu tive um problema no projeto/pasta do arquivo, corrigi e estou enviando esse no lugar. O código possui as mesmas pastas e arquivos. Espero que o senhor entenda
-
 Att, Wemerson
